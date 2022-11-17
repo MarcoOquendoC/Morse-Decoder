@@ -13,9 +13,9 @@
 
 # 📖 [morse_decoder] <a name="morse-decoder"></a>
 
-> Describe your project in 1 or 2 sentences.
+> **[morse_decoder]** Ruby app that will decode a morse code string given by the user. (Pair Programming)
 
-**[morse_decoder]** is a simple morse code decoder that can decode morse code from a string or a file.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
