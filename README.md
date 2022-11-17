@@ -11,9 +11,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 morse_decoder <a name="morse-decoder"></a>
+# 📖 Morse Decoder <a name="morse-decoder"></a>
 
-> morse_decoder is a Ruby app that will decode a morse code string given by the user. (Pair Programming)
+> Morse Decoder is a Ruby app that will decode a morse code string given by the user. (Pair Programming)
 
 ## 🛠 Built With <a name="built-with"></a>
 
