@@ -11,11 +11,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [morse_decoder] <a name="morse-decoder"></a>
+# 📖 morse_decoder <a name="morse-decoder"></a>
 
-> **[morse_decoder]** Ruby app that will decode a morse code string given by the user. (Pair Programming)
-
-
+> morse_decoder is a Ruby app that will decode a morse code string given by the user. (Pair Programming)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -44,69 +42,42 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
 ```sh
  gem install rails
 ```
- -->
-
 ### Setup
 
 Clone this repository to your desired folder:
-
-<!--
-Example commands:
 
 ```sh
   cd my-folder
   git clone git@github.com:MarcoOquendoC/Morse-Decoder.git
 ```
---->
-
 ### Install
 
 Install this project with:
-
-<!--
-Example command:
 
 ```sh
   cd Morse-Decoder
   gem install
 ```
---->
-
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
 ```sh
   irb
   irb(main):001:0> ./morse_decoder.rb
 ```
---->
-
 ### Run tests
 
-<!--
-Example command:
-
 ```sh
   irb
   irb(main):001:0> ./morse_decoder.rb
 ```
---->
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -140,17 +111,13 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project please give it a ⭐️!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank [Microverse](www.microverse.org) team.
 - Special Thanks to everyone who will get time to check this code and suggest any [issues](https://github.com/MarcoOquendoC/Morse-Decoder/issues)
@@ -160,8 +127,6 @@ I would like to thank [Microverse](www.microverse.org) team.
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[What is Morse Code?]**
 
