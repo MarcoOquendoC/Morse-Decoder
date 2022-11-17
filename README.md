@@ -34,8 +34,6 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -128,13 +126,13 @@ I would like to thank [Microverse](www.microverse.org) team.
 
 ## ❓ FAQ <a name="faq"></a>
 
-- **[What is Morse Code?]**
+- **What is Morse Code?**
 
-  - [Morse code is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called dots and dashes, or dits and dahs.]
+  - Morse code is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called dots and dashes, or dits and dahs.
 
-- **[Who invented Morse Code?]**
+- **Who invented Morse Code?**
 
-  - [Morse code is named after Samuel Morse, one of the inventors of the telegraph .]
+  - Morse code is named after Samuel Morse, one of the inventors of the telegraph .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
