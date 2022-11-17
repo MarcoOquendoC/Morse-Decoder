@@ -55,19 +55,25 @@ MORSE_CODE = {
   '.--.-.' => '@'
 }.freeze
 
-def morse_decoder(string)
-  string.split('   ')
-    .map do |word|
-    word.split
-      .map do |letter|
-      MORSE_CODE[letter]
-    end
-      .join
+def char_decoder(char_string)
+  MORSE_CODE[char_string]
+end
+
+def word_decoder(word_string)
+  word_string.split.map do |char|
+    char_decoder(char)
+  end
+    .join
+end
+
+def message_decoder(message_string)
+  message_string.split('   ').map do |word|
+    word_decoder(word)
   end
     .join(' ')
 end
 
 string1 = '-- -.--   -. .- -- .'
-puts "#{string1} => " << morse_decoder(string1)
+puts "#{string1} => " << message_decoder(string1)
 string2 = '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
-puts "#{string2} => " << morse_decoder(string2)
+puts "#{string2} => " << message_decoder(string2)
